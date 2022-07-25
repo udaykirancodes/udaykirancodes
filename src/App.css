@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  width: 100%;
+  background-color: #010718;
+}
+.section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+.container{
+  max-width: 1080px;
+  min-width:90vw; 
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media all and  (max-width:400px){
+  .container{
+    background-color:'red';
+  }
+}
