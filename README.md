@@ -10,11 +10,11 @@ I've been learning to code from past 3 years. learning how the things work. expl
 const [ Name , setName ] = useState(''); 
 useEffect(()=>{
     setName('UdayKiran');
-})
+},[])
 ```
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [my portfolio](http://udaykirancodes.github.io/portfolio/)
+* 🖥️  See my portfolio at [my portfolio](https://udaycodes.vercel.app/)
 * ✉️  You can contact me at [officialudaykiran@gmail.com](mailto:officialudaykiran@gmail.com)
 * 🚀  I'm currently working on [REACT JS](http://https://udaykirancodes.github.io/CandyCrush/)
 * 🧠  I'm learning REACT & REACT NATIVE
