@@ -15,7 +15,7 @@ useEffect(()=>{
 ```
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [my portfolio](https://udaycodes.vercel.app/)
+* 🖥️  [click here to see my portfolio](https://udaycodes.vercel.app/)
 * ✉️  You can contact me at [officialudaykiran@gmail.com](mailto:officialudaykiran@gmail.com)
 * 🚀  I'm currently working on [REACT JS](http://https://udaykirancodes.github.io/CandyCrush/)
 * 🧠  I'm learning REACT & REACT NATIVE
