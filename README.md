@@ -1,6 +1,6 @@
 Hi 👋 My name is Udaykiran
 ==========================
-Software Developer with 1+ years of experience building high-quality web applications using Next.js, React, and TypeScript. I also work on scalable backend services using Node.js, Spring Boot, and Golang, focusing on microservices architecture.
+Software Developer with 1+ years of experience building high-quality web applications using Next.js, React, and TypeScript. Experienced in developing scalable backend services using Node.js, Spring Boot, and Golang, with a focus on microservices architecture.
 
 * 🌍  I'm based in India
 * 🖥️  [click here to see my portfolio](https://udaykiran.dev/)
